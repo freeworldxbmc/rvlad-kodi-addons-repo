@@ -1,0 +1,1 @@
+There are add-ons that allow viewing popular Kazahstan resources in the program Kodi (XBMC)
